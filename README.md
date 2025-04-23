@@ -10,7 +10,3 @@ Este projeto implementa um chatbot baseado em Retrieval Augmented Generation (RA
 - Interface de usuário intuitiva com Streamlit
 - Integração com o modelo o3-mini da OpenAI
 
-## Instalação
-
-1. Clone este repositório
-2. Crie um ambiente virtual (opcional, mas recomendado):
